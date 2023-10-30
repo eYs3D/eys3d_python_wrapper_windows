@@ -1,0 +1,399 @@
+ [17:28:39:776] CApcDI::Init().
+ [17:28:39:776] CApcDI::FindDevice() enter.
+ [17:28:39:776] EnumerateDevice() enter.
+ [17:28:39:776] EnumerateDevice() exit.
+ [17:28:39:776] CApcDI::EnumerateDevice Failed.
+ [17:28:39:776] CApcDI::Init().
+ [17:28:39:791] CApcDI::FindDevice() enter.
+ [17:28:39:791] EnumerateDevice() enter.
+ [17:28:39:791] EnumerateDevice() exit.
+ [17:28:39:791] CApcDI::EnumerateDevice Failed.
+ [17:28:39:791] CApcDI::Init().
+ [17:28:39:791] CApcDI::FindDevice() enter.
+ [17:28:39:791] EnumerateDevice() enter.
+ [17:28:39:807] EnumerateDevice() exit.
+ [17:28:39:807] CApcDI::EnumerateDevice Failed.
+ [17:28:39:807] CApcDI::Init().
+ [17:28:39:807] CApcDI::FindDevice() enter.
+ [17:28:39:807] EnumerateDevice() enter.
+ [17:28:39:807] EnumerateDevice() exit.
+ [17:28:39:807] CApcDI::EnumerateDevice Failed.
+ [17:28:39:807] CApcDI::Init().
+ [17:28:39:822] CApcDI::FindDevice() enter.
+ [17:28:39:822] EnumerateDevice() enter.
+ [17:28:39:822] EnumerateDevice() exit.
+ [17:28:39:822] CApcDI::EnumerateDevice Failed.
+ [17:28:39:822] CApcDI::Init().
+ [17:28:39:822] CApcDI::FindDevice() enter.
+ [17:28:39:822] EnumerateDevice() enter.
+ [17:28:39:838] EnumerateDevice() exit.
+ [17:28:39:838] CApcDI::EnumerateDevice Failed.
+ [17:28:51:758] CApcDI::Init().
+ [17:28:51:758] CApcDI::FindDevice() enter.
+ [17:28:51:758] EnumerateDevice() enter.
+ [17:28:51:774] EnumerateDevice() exit.
+ [17:28:51:774] CApcDI::EnumerateDevice Failed.
+ [17:28:51:774] CApcDI::Init().
+ [17:28:51:774] CApcDI::FindDevice() enter.
+ [17:28:51:774] EnumerateDevice() enter.
+ [17:28:51:789] EnumerateDevice() exit.
+ [17:28:51:789] CApcDI::EnumerateDevice Failed.
+ [17:28:51:789] CApcDI::Init().
+ [17:28:51:789] CApcDI::FindDevice() enter.
+ [17:28:51:789] EnumerateDevice() enter.
+ [17:28:51:789] EnumerateDevice() exit.
+ [17:28:51:789] CApcDI::EnumerateDevice Failed.
+ [17:28:51:789] CApcDI::Init().
+ [17:28:51:805] CApcDI::FindDevice() enter.
+ [17:28:51:805] EnumerateDevice() enter.
+ [17:28:51:805] EnumerateDevice() exit.
+ [17:28:51:805] CApcDI::EnumerateDevice Failed.
+ [17:28:51:805] CApcDI::Init().
+ [17:28:51:805] CApcDI::FindDevice() enter.
+ [17:28:51:805] EnumerateDevice() enter.
+ [17:28:51:821] EnumerateDevice() exit.
+ [17:28:51:821] CApcDI::EnumerateDevice Failed.
+ [17:28:51:821] CApcDI::Init().
+ [17:28:51:821] CApcDI::FindDevice() enter.
+ [17:28:51:821] EnumerateDevice() enter.
+ [17:28:51:821] EnumerateDevice() exit.
+ [17:28:51:821] CApcDI::EnumerateDevice Failed.
+ [17:28:55:596] CApcDI::Init().
+ [17:28:55:596] CApcDI::FindDevice() enter.
+ [17:28:55:596] EnumerateDevice() enter.
+ [17:28:55:612] EnumerateDevice() exit.
+ [17:28:55:612] CApcDI::EnumerateDevice Failed.
+ [17:28:55:612] CApcDI::Init().
+ [17:28:55:612] CApcDI::FindDevice() enter.
+ [17:28:55:612] EnumerateDevice() enter.
+ [17:28:55:612] EnumerateDevice() exit.
+ [17:28:55:627] CApcDI::EnumerateDevice Failed.
+ [17:28:55:627] CApcDI::Init().
+ [17:28:55:627] CApcDI::FindDevice() enter.
+ [17:28:55:627] EnumerateDevice() enter.
+ [17:28:55:627] EnumerateDevice() exit.
+ [17:28:55:627] CApcDI::EnumerateDevice Failed.
+ [17:28:55:627] CApcDI::Init().
+ [17:28:55:643] CApcDI::FindDevice() enter.
+ [17:28:55:643] EnumerateDevice() enter.
+ [17:28:55:643] EnumerateDevice() exit.
+ [17:28:55:643] CApcDI::EnumerateDevice Failed.
+ [17:28:55:643] CApcDI::Init().
+ [17:28:55:643] CApcDI::FindDevice() enter.
+ [17:28:55:643] EnumerateDevice() enter.
+ [17:28:55:659] EnumerateDevice() exit.
+ [17:28:55:659] CApcDI::EnumerateDevice Failed.
+ [17:28:55:659] CApcDI::Init().
+ [17:28:55:659] CApcDI::FindDevice() enter.
+ [17:28:55:659] EnumerateDevice() enter.
+ [17:28:55:659] EnumerateDevice() exit.
+ [17:28:55:659] CApcDI::EnumerateDevice Failed.
+ [17:28:58:182] CApcDI::Init().
+ [17:28:58:182] CApcDI::FindDevice() enter.
+ [17:28:58:182] EnumerateDevice() enter.
+ [17:28:58:182] EnumerateDevice() exit.
+ [17:28:58:198] CApcDI::EnumerateDevice Failed.
+ [17:28:58:198] CApcDI::Init().
+ [17:28:58:198] CApcDI::FindDevice() enter.
+ [17:28:58:198] EnumerateDevice() enter.
+ [17:28:58:198] EnumerateDevice() exit.
+ [17:28:58:198] CApcDI::EnumerateDevice Failed.
+ [17:28:58:198] CApcDI::Init().
+ [17:28:58:214] CApcDI::FindDevice() enter.
+ [17:28:58:214] EnumerateDevice() enter.
+ [17:28:58:214] EnumerateDevice() exit.
+ [17:28:58:214] CApcDI::EnumerateDevice Failed.
+ [17:28:58:214] CApcDI::Init().
+ [17:28:58:214] CApcDI::FindDevice() enter.
+ [17:28:58:229] EnumerateDevice() enter.
+ [17:28:58:229] EnumerateDevice() exit.
+ [17:28:58:229] CApcDI::EnumerateDevice Failed.
+ [17:28:58:229] CApcDI::Init().
+ [17:28:58:229] CApcDI::FindDevice() enter.
+ [17:28:58:229] EnumerateDevice() enter.
+ [17:28:58:229] EnumerateDevice() exit.
+ [17:28:58:245] CApcDI::EnumerateDevice Failed.
+ [17:28:58:245] CApcDI::Init().
+ [17:28:58:245] CApcDI::FindDevice() enter.
+ [17:28:58:245] EnumerateDevice() enter.
+ [17:28:58:245] EnumerateDevice() exit.
+ [17:28:58:245] CApcDI::EnumerateDevice Failed.
+ [17:28:59:953] CApcDI::Init().
+ [17:28:59:953] CApcDI::FindDevice() enter.
+ [17:28:59:953] EnumerateDevice() enter.
+ [17:28:59:969] EnumerateDevice() exit.
+ [17:28:59:969] CApcDI::EnumerateDevice Failed.
+ [17:28:59:969] CApcDI::Init().
+ [17:28:59:969] CApcDI::FindDevice() enter.
+ [17:28:59:969] EnumerateDevice() enter.
+ [17:28:59:969] EnumerateDevice() exit.
+ [17:28:59:984] CApcDI::EnumerateDevice Failed.
+ [17:28:59:984] CApcDI::Init().
+ [17:28:59:984] CApcDI::FindDevice() enter.
+ [17:28:59:984] EnumerateDevice() enter.
+ [17:28:59:984] EnumerateDevice() exit.
+ [17:28:59:984] CApcDI::EnumerateDevice Failed.
+ [17:28:59:984] CApcDI::Init().
+ [17:29:00:000] CApcDI::FindDevice() enter.
+ [17:29:00:000] EnumerateDevice() enter.
+ [17:29:00:000] EnumerateDevice() exit.
+ [17:29:00:000] CApcDI::EnumerateDevice Failed.
+ [17:29:00:000] CApcDI::Init().
+ [17:29:00:000] CApcDI::FindDevice() enter.
+ [17:29:00:015] EnumerateDevice() enter.
+ [17:29:00:015] EnumerateDevice() exit.
+ [17:29:00:015] CApcDI::EnumerateDevice Failed.
+ [17:29:00:015] CApcDI::Init().
+ [17:29:00:015] CApcDI::FindDevice() enter.
+ [17:29:00:015] EnumerateDevice() enter.
+ [17:29:00:031] EnumerateDevice() exit.
+ [17:29:00:031] CApcDI::EnumerateDevice Failed.
+ [17:29:09:672] CApcDI::Init().
+ [17:29:09:672] CApcDI::FindDevice() enter.
+ [17:29:09:672] EnumerateDevice() enter.
+ [17:29:09:672] EnumerateDevice() exit.
+ [17:29:09:672] CApcDI::EnumerateDevice Failed.
+ [17:29:09:687] CApcDI::Init().
+ [17:29:09:687] CApcDI::FindDevice() enter.
+ [17:29:09:687] EnumerateDevice() enter.
+ [17:29:09:687] EnumerateDevice() exit.
+ [17:29:09:687] CApcDI::EnumerateDevice Failed.
+ [17:29:09:687] CApcDI::Init().
+ [17:29:09:703] CApcDI::FindDevice() enter.
+ [17:29:09:703] EnumerateDevice() enter.
+ [17:29:09:703] EnumerateDevice() exit.
+ [17:29:09:703] CApcDI::EnumerateDevice Failed.
+ [17:29:09:703] CApcDI::Init().
+ [17:29:09:703] CApcDI::FindDevice() enter.
+ [17:29:09:703] EnumerateDevice() enter.
+ [17:29:09:718] EnumerateDevice() exit.
+ [17:29:09:718] CApcDI::EnumerateDevice Failed.
+ [17:29:09:718] CApcDI::Init().
+ [17:29:09:718] CApcDI::FindDevice() enter.
+ [17:29:09:718] EnumerateDevice() enter.
+ [17:29:09:718] EnumerateDevice() exit.
+ [17:29:09:734] CApcDI::EnumerateDevice Failed.
+ [17:29:09:734] CApcDI::Init().
+ [17:29:09:734] CApcDI::FindDevice() enter.
+ [17:29:09:734] EnumerateDevice() enter.
+ [17:29:09:734] EnumerateDevice() exit.
+ [17:29:09:734] CApcDI::EnumerateDevice Failed.
+ [17:29:15:733] CApcDI::Init().
+ [17:29:15:748] CApcDI::FindDevice() enter.
+ [17:29:15:748] EnumerateDevice() enter.
+ [17:29:15:748] EnumerateDevice() exit.
+ [17:29:15:748] CApcDI::EnumerateDevice Failed.
+ [17:29:15:748] CApcDI::Init().
+ [17:29:15:764] CApcDI::FindDevice() enter.
+ [17:29:15:764] EnumerateDevice() enter.
+ [17:29:15:764] EnumerateDevice() exit.
+ [17:29:15:764] CApcDI::EnumerateDevice Failed.
+ [17:29:15:764] CApcDI::Init().
+ [17:29:15:764] CApcDI::FindDevice() enter.
+ [17:29:15:780] EnumerateDevice() enter.
+ [17:29:15:780] EnumerateDevice() exit.
+ [17:29:15:780] CApcDI::EnumerateDevice Failed.
+ [17:29:15:780] CApcDI::Init().
+ [17:29:15:780] CApcDI::FindDevice() enter.
+ [17:29:15:780] EnumerateDevice() enter.
+ [17:29:15:780] EnumerateDevice() exit.
+ [17:29:15:795] CApcDI::EnumerateDevice Failed.
+ [17:29:15:795] CApcDI::Init().
+ [17:29:15:795] CApcDI::FindDevice() enter.
+ [17:29:15:795] EnumerateDevice() enter.
+ [17:29:15:795] EnumerateDevice() exit.
+ [17:29:15:795] CApcDI::EnumerateDevice Failed.
+ [17:29:15:811] CApcDI::Init().
+ [17:29:15:811] CApcDI::FindDevice() enter.
+ [17:29:15:811] EnumerateDevice() enter.
+ [17:29:15:811] EnumerateDevice() exit.
+ [17:29:15:811] CApcDI::EnumerateDevice Failed.
+ [17:29:17:217] CApcDI::Init().
+ [17:29:17:217] CApcDI::FindDevice() enter.
+ [17:29:17:217] EnumerateDevice() enter.
+ [17:29:17:233] EnumerateDevice() exit.
+ [17:29:17:233] CApcDI::EnumerateDevice Failed.
+ [17:29:17:233] CApcDI::Init().
+ [17:29:17:233] CApcDI::FindDevice() enter.
+ [17:29:17:233] EnumerateDevice() enter.
+ [17:29:17:233] EnumerateDevice() exit.
+ [17:29:17:248] CApcDI::EnumerateDevice Failed.
+ [17:29:17:248] CApcDI::Init().
+ [17:29:17:248] CApcDI::FindDevice() enter.
+ [17:29:17:248] EnumerateDevice() enter.
+ [17:29:17:248] EnumerateDevice() exit.
+ [17:29:17:248] CApcDI::EnumerateDevice Failed.
+ [17:29:17:264] CApcDI::Init().
+ [17:29:17:264] CApcDI::FindDevice() enter.
+ [17:29:17:264] EnumerateDevice() enter.
+ [17:29:17:264] EnumerateDevice() exit.
+ [17:29:17:264] CApcDI::EnumerateDevice Failed.
+ [17:29:17:264] CApcDI::Init().
+ [17:29:17:279] CApcDI::FindDevice() enter.
+ [17:29:17:279] EnumerateDevice() enter.
+ [17:29:17:279] EnumerateDevice() exit.
+ [17:29:17:279] CApcDI::EnumerateDevice Failed.
+ [17:29:17:279] CApcDI::Init().
+ [17:29:17:279] CApcDI::FindDevice() enter.
+ [17:29:17:295] EnumerateDevice() enter.
+ [17:29:17:295] EnumerateDevice() exit.
+ [17:29:17:295] CApcDI::EnumerateDevice Failed.
+ [17:29:55:446] CApcDI::Init().
+ [17:29:55:446] CApcDI::FindDevice() enter.
+ [17:29:55:446] EnumerateDevice() enter.
+ [17:29:55:446] EnumerateDevice() exit.
+ [17:29:55:446] CApcDI::EnumerateDevice Failed.
+ [17:29:55:461] CApcDI::Init().
+ [17:29:55:461] CApcDI::FindDevice() enter.
+ [17:29:55:461] EnumerateDevice() enter.
+ [17:29:55:461] EnumerateDevice() exit.
+ [17:29:55:461] CApcDI::EnumerateDevice Failed.
+ [17:29:55:461] CApcDI::Init().
+ [17:29:55:477] CApcDI::FindDevice() enter.
+ [17:29:55:477] EnumerateDevice() enter.
+ [17:29:55:477] EnumerateDevice() exit.
+ [17:29:55:477] CApcDI::EnumerateDevice Failed.
+ [17:29:55:477] CApcDI::Init().
+ [17:29:55:477] CApcDI::FindDevice() enter.
+ [17:29:55:492] EnumerateDevice() enter.
+ [17:29:55:492] EnumerateDevice() exit.
+ [17:29:55:492] CApcDI::EnumerateDevice Failed.
+ [17:29:55:492] CApcDI::Init().
+ [17:29:55:492] CApcDI::FindDevice() enter.
+ [17:29:55:492] EnumerateDevice() enter.
+ [17:29:55:508] EnumerateDevice() exit.
+ [17:29:55:508] CApcDI::EnumerateDevice Failed.
+ [17:29:55:508] CApcDI::Init().
+ [17:29:55:508] CApcDI::FindDevice() enter.
+ [17:29:55:508] EnumerateDevice() enter.
+ [17:29:55:508] EnumerateDevice() exit.
+ [17:29:55:524] CApcDI::EnumerateDevice Failed.
+ [17:30:16:461] CApcDI::Init().
+ [17:30:16:461] CApcDI::FindDevice() enter.
+ [17:30:16:471] EnumerateDevice() enter.
+ [17:30:16:476] EnumerateDevice() exit.
+ [17:30:16:491] CApcDI::GetFwVersion enter.
+ [17:30:16:511] ReadDataByFID enter.
+ [17:30:16:921] CApcDI::GetFwVersion exit.
+ [17:30:16:926] CApcDI::FindDevice() exit.
+ [17:30:16:931] CApcDI::GetDeviceInfo() enter.
+ [17:30:16:931] CApcDI::GetDeviceInfo() exit.
+ [17:30:16:941] CApcDI::GetFwVersion enter.
+ [17:30:16:961] ReadDataByFID enter.
+ [17:30:17:311] CApcDI::GetFwVersion exit.
+ [17:30:17:321] GetSerialNumber enter.
+ [17:30:17:321] IsPlugInVersionNew enter.
+ [17:30:17:331] IsPlugInVersionNew exit.
+ [17:30:17:341] ReadDataByFID enter.
+ [17:30:17:688] GetSerialNumber exit.
+ [17:30:18:490] CApcDI::Init().
+ [17:30:18:490] CApcDI::FindDevice() enter.
+ [17:30:18:506] EnumerateDevice() enter.
+ [17:30:18:506] EnumerateDevice() exit.
+ [17:30:18:522] CApcDI::GetFwVersion enter.
+ [17:30:18:537] ReadDataByFID enter.
+ [17:30:18:923] CApcDI::GetFwVersion exit.
+ [17:30:18:938] CApcDI::FindDevice() exit.
+ [17:30:18:938] CApcDI::GetDeviceInfo() enter.
+ [17:30:18:938] CApcDI::GetDeviceInfo() exit.
+ [17:30:18:954] CApcDI::GetFwVersion enter.
+ [17:30:18:976] ReadDataByFID enter.
+ [17:30:19:324] CApcDI::GetFwVersion exit.
+ [17:30:19:324] GetSerialNumber enter.
+ [17:30:19:324] IsPlugInVersionNew enter.
+ [17:30:19:324] IsPlugInVersionNew exit.
+ [17:30:19:355] ReadDataByFID enter.
+ [17:30:19:693] GetSerialNumber exit.
+ [17:30:30:643] CApcDI::Init().
+ [17:30:30:643] CApcDI::FindDevice() enter.
+ [17:30:30:643] EnumerateDevice() enter.
+ [17:30:30:659] EnumerateDevice() exit.
+ [17:30:30:674] CApcDI::GetFwVersion enter.
+ [17:30:30:674] ReadDataByFID enter.
+ [17:31:46:490] CApcDI::Init().
+ [17:31:46:490] CApcDI::FindDevice() enter.
+ [17:31:46:490] EnumerateDevice() enter.
+ [17:31:46:506] EnumerateDevice() exit.
+ [17:31:46:553] CApcDI::GetFwVersion enter.
+ [17:31:46:568] ReadDataByFID enter.
+ [17:31:46:975] CApcDI::GetFwVersion exit.
+ [17:31:46:975] CApcDI::FindDevice() exit.
+ [17:31:46:975] CApcDI::GetDeviceInfo() enter.
+ [17:31:46:990] CApcDI::GetDeviceInfo() exit.
+ [17:31:46:990] CApcDI::GetFwVersion enter.
+ [17:31:47:021] ReadDataByFID enter.
+ [17:31:47:365] CApcDI::GetFwVersion exit.
+ [17:31:47:365] GetSerialNumber enter.
+ [17:31:47:365] IsPlugInVersionNew enter.
+ [17:31:47:381] IsPlugInVersionNew exit.
+ [17:31:47:397] ReadDataByFID enter.
+ [17:31:47:740] GetSerialNumber exit.
+ [17:31:48:537] CApcDI::Init().
+ [17:31:48:553] CApcDI::FindDevice() enter.
+ [17:31:48:553] EnumerateDevice() enter.
+ [17:31:48:553] EnumerateDevice() exit.
+ [17:31:48:568] CApcDI::GetFwVersion enter.
+ [17:31:48:584] ReadDataByFID enter.
+ [17:31:48:975] CApcDI::GetFwVersion exit.
+ [17:31:48:991] CApcDI::FindDevice() exit.
+ [17:31:48:991] CApcDI::GetDeviceInfo() enter.
+ [17:31:48:991] CApcDI::GetDeviceInfo() exit.
+ [17:31:49:006] CApcDI::GetFwVersion enter.
+ [17:31:49:022] ReadDataByFID enter.
+ [17:31:49:366] CApcDI::GetFwVersion exit.
+ [17:31:49:381] GetSerialNumber enter.
+ [17:31:49:397] IsPlugInVersionNew enter.
+ [17:31:49:397] IsPlugInVersionNew exit.
+ [17:31:49:428] ReadDataByFID enter.
+ [17:31:49:772] GetSerialNumber exit.
+ [17:31:57:287] CApcDI::Init().
+ [17:31:57:287] CApcDI::FindDevice() enter.
+ [17:31:57:287] EnumerateDevice() enter.
+ [17:31:57:303] EnumerateDevice() exit.
+ [17:31:57:334] CApcDI::GetFwVersion enter.
+ [17:31:57:365] ReadDataByFID enter.
+ [17:31:57:756] CApcDI::GetFwVersion exit.
+ [17:31:57:772] CApcDI::FindDevice() exit.
+ [17:31:57:772] CApcDI::GetDeviceInfo() enter.
+ [17:31:57:772] CApcDI::GetDeviceInfo() exit.
+ [17:31:57:787] CApcDI::GetFwVersion enter.
+ [17:31:57:803] ReadDataByFID enter.
+ [17:31:58:147] CApcDI::GetFwVersion exit.
+ [17:31:58:147] GetSerialNumber enter.
+ [17:31:58:147] IsPlugInVersionNew enter.
+ [17:31:58:163] IsPlugInVersionNew exit.
+ [17:31:58:178] ReadDataByFID enter.
+ [17:31:58:522] GetSerialNumber exit.
+ [17:31:59:319] CApcDI::Init().
+ [17:31:59:334] CApcDI::FindDevice() enter.
+ [17:31:59:334] EnumerateDevice() enter.
+ [17:31:59:334] EnumerateDevice() exit.
+ [17:31:59:350] CApcDI::GetFwVersion enter.
+ [17:31:59:366] ReadDataByFID enter.
+ [17:31:59:756] CApcDI::GetFwVersion exit.
+ [17:31:59:772] CApcDI::FindDevice() exit.
+ [17:31:59:772] CApcDI::GetDeviceInfo() enter.
+ [17:31:59:772] CApcDI::GetDeviceInfo() exit.
+ [17:31:59:772] CApcDI::GetFwVersion enter.
+ [17:31:59:803] ReadDataByFID enter.
+ [17:32:00:147] CApcDI::GetFwVersion exit.
+ [17:32:00:147] GetSerialNumber enter.
+ [17:32:00:163] IsPlugInVersionNew enter.
+ [17:32:00:163] IsPlugInVersionNew exit.
+ [17:32:00:179] ReadDataByFID enter.
+ [17:32:00:523] GetSerialNumber exit.
+ [17:32:05:022] ReadDataByFID enter.
+ [17:32:10:306] CApcDI::GetRectifyMatLogData enter.
+ [17:32:10:330] ReadDataByFID enter.
+ [17:32:11:491] CApcDI::GetRectifyMatLogData enter.
+ [17:32:11:516] ReadDataByFID enter.
+ [17:32:12:510] CApcDI::GetRectifyMatLogData enter.
+ [17:32:12:531] ReadDataByFID enter.
+ [17:32:13:673] CApcDI::GetRectifyMatLogData enter.
+ [17:32:13:695] ReadDataByFID enter.
+ [17:32:14:840] CApcDI::GetRectifyMatLogData enter.
+ [17:32:14:866] ReadDataByFID enter.
+ [17:32:16:004] CApcDI::GetRectifyMatLogData enter.
+ [17:32:16:027] ReadDataByFID enter.
+ [17:32:23:065] CApcDI::CloseDevice() enter.
+ [17:32:23:679] CApcDI::CloseDevice() exit.

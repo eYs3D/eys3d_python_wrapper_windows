@@ -1,0 +1,4 @@
+2023-08-07 17:32:17.256 | INFO     | eys3d.device:enable_color_depth_stream:191 - Enable stream
+2023-08-07 17:32:17.259 | INFO     | cv_demo:cv_sample:67 - Default ZNear: 133, ZFar: 1000
+2023-08-07 17:32:23.029 | INFO     | eys3d.device:pause_stream:200 - Pause stream
+2023-08-07 17:32:23.034 | INFO     | eys3d.device:close_stream:227 - Close stream
