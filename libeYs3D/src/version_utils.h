@@ -7,8 +7,8 @@
 #define EYS3D_DEPTH_VERSION_TWEAK 1
 
 #define WRAPPER_VERSION "1.0.0.1"
-#define GIT_BRANCH "release_windows_python_wrapper"
-#define GIT_HASH "30acdfe4"
-#define BUILD_TIMESTAMP "2023-08-07 17:44:36"
+#define GIT_BRANCH "master"
+#define GIT_HASH "715060bb"
+#define BUILD_TIMESTAMP "2024-11-20 16:30:13"
 
 #endif // VERSION_UTILS_H_IN
